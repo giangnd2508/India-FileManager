@@ -16,7 +16,7 @@ import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
 
 @RunWith(SerenityRunner.class)
-public class AClientCanCreateANewCase {
+public class AClientCanCreateANewCaseStory {
 
 	Actor jame = Actor.named("Jame - A Client");
 
